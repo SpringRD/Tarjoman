@@ -58,7 +58,7 @@ pyqt5-tools==5.15.2.3.0.2
 python-dateutil==2.8.1
 python-dotenv==0.15.0
 pywin32-ctypes==0.2.0
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==22.0.2
 qt5-applications==5.15.2.2.1
 qt5-tools==5.15.2.1.0.1
