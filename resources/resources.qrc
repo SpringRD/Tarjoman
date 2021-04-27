@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/image.png</file>
+    <file>images/driveUtils.ico</file>
+    <file>images/ok.png</file>
+  </qresource>
+</RCC>
